@@ -59,6 +59,8 @@ ul li{
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(145, 31, 245, 0.968);
     transition: transform 0.2s ease;
+    margin-right: 55px;
+    margin-left: -25px;
 }
 ul li:hover {
         transform: scale(1.02);
