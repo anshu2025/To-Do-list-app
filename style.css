@@ -51,18 +51,19 @@ input {
     }
 ul li{
     list-style: none;
-    font-size: 17px;
-    padding: 12px 8px 12px 50px ;
-    user-select: none;
-    cursor: pointer;
-    position: relative;
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(145, 31, 245, 0.968);
-    transition: transform 0.2s ease;
-    margin-right: 55px;
-    margin-left: -25px;
-    word-wrap: break-word;
-    margin-bottom: 25px;
+            font-size: 17px;
+            padding: 12px 58px 12px 50px;
+            margin: 10px 0;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(32, 222, 95, 0.968);
+            cursor: pointer;
+            position: relative;
+            transition: transform 0.2s ease;
+            margin-right: 55px;
+            margin-left: -25px;
+            word-wrap: break-word;
+            margin-bottom: 25px;
 }
 ul li:hover {
         transform: scale(1.02);
