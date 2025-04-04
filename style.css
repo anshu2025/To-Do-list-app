@@ -62,6 +62,7 @@ ul li{
     margin-right: 55px;
     margin-left: -25px;
     word-wrap: break-word;
+    margin-bottom: 25px;
 }
 ul li:hover {
         transform: scale(1.02);
