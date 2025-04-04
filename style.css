@@ -61,6 +61,7 @@ ul li{
     transition: transform 0.2s ease;
     margin-right: 55px;
     margin-left: -25px;
+    word-wrap: break-word;
 }
 ul li:hover {
         transform: scale(1.02);
